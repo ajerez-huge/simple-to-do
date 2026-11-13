@@ -1,0 +1,14 @@
+one_open:
+  user: one
+  description: Buy milk
+  completed: false
+
+one_done:
+  user: one
+  description: Write report
+  completed: true
+
+two_open:
+  user: two
+  description: Other user's item
+  completed: false
